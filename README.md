@@ -12,6 +12,8 @@ A project created over a span of <i><b>20 hrs.</b></i> during HackNY
 
 Access the live preview at https://evening-wave-2202.herokuapp.com/# 
 
+Project URL for Challengepost submission : http://challengepost.com/software/peogle-google-people
+
 <b>Created By :</b> Abhi Verma<br>
 <b>Contributions By :</b> Christin Jose
 
